@@ -5,7 +5,7 @@ To complete the assignment follow the below steps:
 
 
 
-# Steps and Commands
+## Steps and Commands
  
 **Step1.** First create a directory for dockerfile  and navigate  to it.
 ```
